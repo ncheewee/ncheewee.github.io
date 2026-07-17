@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.ncheewee.twa",
-    "sha256_cert_fingerprints": ["B5:97:9E:94:DB:DB:39:9B:41:9B:BA:D3:19:F1:30:90:D3:FE:AE:8F:52:CC:24:3E:FA:A9:B9:DC:DD:CD:D2:43"]
+    "sha256_cert_fingerprints": [
+      "60:07:7A:C8:0D:7F:DA:54:3F:77:4D:6B:90:2A:49:A2:F6:64:DC:FF:57:22:A3:6A:26:68:0D:EF:07:EE:7B:A9",
+      "B5:97:9E:94:DB:DB:39:9B:41:9B:BA:D3:19:F1:30:90:D3:FE:AE:8F:52:CC:24:3E:FA:A9:B9:DC:DD:CD:D2:43"
+    ]
   }
 }]
